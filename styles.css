@@ -1,0 +1,34 @@
+body {
+  background-color: black;
+  text-align: center;
+}
+
+h1 {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 3.125rem;
+  color: white;
+  text-align: center;
+}
+
+p {
+  color: aquamarine;
+}
+
+.remember {
+  font-family: Verdana;
+  font-size: 1.3215rem;
+  color: gray;
+}
+
+a:link, a:hover, a:visited, a:active {
+  color: aquamarine;
+}
+
+#phone-img {
+  margin-top: 50px;
+}
+
+footer {
+  text-align: right;
+}
